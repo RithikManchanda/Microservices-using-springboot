@@ -10,7 +10,7 @@ Microservices used:
 5.RatingService
 6.HotelService
 
-Secruty to microservices and each Api call is being provided using Okta's access token.
+Security to microservices and each Api call is being provided using Okta's access token.
 
 
 Some screenshots:
